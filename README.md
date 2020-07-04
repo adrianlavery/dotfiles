@@ -58,5 +58,4 @@ this script in `bin/`.
 
 ## thanks
 
-Forked from [Holman's dotfiles](http://github.com/holman/dotfiles) who in turn thanks  
- [Ryan Bates](http://github.com/ryanb). 
+Forked from [holman's dotfiles](http://github.com/holman/dotfiles) who in turn thanks [Ryan Bates](http://github.com/ryanb). 
